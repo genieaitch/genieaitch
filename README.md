@@ -1,3 +1,5 @@
+<div align=center>
+
 ![header](https://capsule-render.vercel.app/api?type=cylinder&color=fff57f&height=150&section=header&text=genie's%20Github&fontColor=000000&fontSize=70&animation=fadeIn&fontAlignY=55)
 
 <div align=center>
