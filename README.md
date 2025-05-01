@@ -2,7 +2,7 @@
 
 <div align=center>
   👋 안녕하세요! 웹 개발자 Genie입니다. <br>
-  Java와 React 기반의 풀스택 개발을 좋아하고, Notion으로 프로젝트와 학습을 체계적으로 관리합니다. <br>
+  Java와 React 기반의 풀스택 개발을 좋아하고, Notion으로 프로젝트와 학습을 체계적으로 관리합니다.<br>
   
 <a href="https://www.notion.so/1d042fec2170807a8766e72a2c9679d6?pvs=4" target="_blank">
   <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/>
@@ -29,8 +29,6 @@
   <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
   <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
   <br>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=genieaitch&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-
-![visitor badge](https://komarev.com/ghpvc/?username=genieaitch&color=blue&style=flat-square)
 </div>
